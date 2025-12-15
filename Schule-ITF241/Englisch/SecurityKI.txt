@@ -1,0 +1,26 @@
+Dear Ms. Stanford,
+
+Following your request, I have reviewed the role of Artificial Intelligence in cybersecurity. 
+Current trends show that AI is a double-edged sword: while attackers increasingly use “Bad AI” 
+to develop adaptive malware, bypass defenses, and launch highly targeted phishing attacks, 
+“Good AI” enables organizations to respond proactively.
+
+AI-driven security solutions can analyze vast amounts of data, detect anomalies, and even 
+predict attacks before they occur. Approaches such as AI-powered threat detection, 
+Zero Trust models, and automated response systems significantly reduce reaction time 
+and human error. In addition, our current use of Snyk.io demonstrates how AI-based tools 
+already help NovaShield Systems identify vulnerabilities early and strengthen our overall 
+security posture.
+
+However, AI adoption also comes with challenges, including higher costs, system complexity, 
+and the need for transparency, ethical oversight, and skilled personnel.
+
+In my opinion, NovaShield Systems should continue and expand its investment in AI-driven 
+cybersecurity. As cyberattacks become more frequent and intelligent, proactive defense is 
+no longer optional. Strategic use of AI will enhance our resilience and allow us to better 
+protect our clients.
+
+Kind regards,
+Elshad Gulaliyev
+Cybersecurity Analyst
+NovaShield Systems
