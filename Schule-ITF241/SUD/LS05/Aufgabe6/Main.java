@@ -1,3 +1,4 @@
+package Aufgabe6;
 import java.util.Scanner;
 
 public class Main {
