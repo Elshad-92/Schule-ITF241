@@ -5,8 +5,8 @@ public class Legostein {
 
     public double preis(){
         double preis = 0;
-        for LegoBauteil teil : teile)
-            preis += teil.preis();
+        // for (LegoBauteil teil : teile)
+        //     preis += teil.preis();
         return preis;
     }
 }
