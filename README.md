@@ -1,1 +1,6 @@
-18.03 SuD (SQL) SchuleDB erstellen und die Tabellen hinzufügen(On delete und update cascade)
+18.03 
+SuD:
+- (SQL) SchuleDB erstellen und die Tabellen hinzufügen(On delete und update cascade)
+
+EvP:
+- IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet. 
