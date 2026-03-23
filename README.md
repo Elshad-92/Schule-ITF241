@@ -4,3 +4,7 @@ SuD:
 
 EvP:
 - IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet. 
+
+23.03
+WuB:
+- Controlling Aufgaben bearbeitet.
