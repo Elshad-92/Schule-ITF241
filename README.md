@@ -1,15 +1,18 @@
-18.03 
+18.03:
+
 SuD:
 - (SQL) SchuleDB erstellen und die Tabellen hinzufügen(On delete und update cascade)
 
 EvP:
 - IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet. 
 
-23.03
+23.03: 
+
 WuB:
 - Controlling Aufgaben bearbeitet.
 
-25.03
+25.03: 
+
 SuD:
 - LS04 Angefangen, aufgaben gemacht.
 
