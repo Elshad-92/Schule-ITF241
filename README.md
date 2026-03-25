@@ -11,6 +11,13 @@ EvP:
 WuB:
 - Controlling Aufgaben bearbeitet.
 
+ENG:
+- Reading aufgabe erledigt.
+
+DEU:
+- Vergleich der Lastenheft:
+   - Warum unterschiedliche Ergebnisse bei gleicher Ausgangssituation ?
+
 25.03: 
 
 SuD:
