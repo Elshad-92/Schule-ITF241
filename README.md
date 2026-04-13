@@ -30,11 +30,7 @@ EvP:
 
 Politik:
 - Arbeitslosigkeit
-
-SuD:
-- 
-
-
+  
 13.04:
 WuB:
 - Marketinglandkarte erklärt bekommen.
