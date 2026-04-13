@@ -33,3 +33,9 @@ Politik:
 
 SuD:
 - 
+
+
+13.04:
+WuB:
+- Marketinglandkarte erklärt bekommen.
+- Das Thema Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus.
