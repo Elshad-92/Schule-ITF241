@@ -6,6 +6,8 @@ SuD:
 EvP:
 - IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet. 
 
+__________
+
 23.03: 
 
 WuB:
@@ -17,6 +19,8 @@ ENG:
 DEU:
 - Vergleich der Lastenheft:
    - Warum unterschiedliche Ergebnisse bei gleicher Ausgangssituation ?
+     
+__________
 
 25.03: 
 
@@ -31,6 +35,7 @@ EvP:
 Politik:
 - Arbeitslosigkeit
 
+__________
   
 13.04:
 WuB:
