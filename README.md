@@ -36,3 +36,6 @@ Politik:
 WuB:
 - Marketinglandkarte erklärt bekommen.
 - Das Thema Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus.
+
+ENG:
+- Präsentation
