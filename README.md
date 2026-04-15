@@ -1,5 +1,3 @@
-## 📚 Schulübersicht
-
 | Datum  | Fach    | Inhalte |
 |--------|--------|--------|
 | 13.04  | WuB    | Marketinglandkarte erklärt bekommen;<br>Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus |
