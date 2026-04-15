@@ -1,58 +1,39 @@
-13.04: 
+## 📚 Schulübersicht
 
-WuB:
-- Marketinglandkarte erklärt bekommen.
-- Das Thema Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus.
-
-ENG:
-- Präsentation
-
-DEU: a
--      
-__________
-
-15.04:
-
-SuD:
-- OTTODB Datenbank: Query Aufgaben gemacht.
-
-EvP:
-- Wandertag geplant.
-- Sortieralgorithmen geschrieben.
-
-EvP: a
-- 
-
-Politik: a
-- 
-
-__________
-
-20.04: 
-
-WuB:
-- 
-
-ENG:
-- 
-
-DEU:
--      
-
-__________
-
-22.04:
-
-SuD:
-- OTTODB Datenbank: Query Aufgaben gemacht.
-
-EvP:
-- IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet.
-
-EvP:
-- IPv6 Präsentation und Subnetting aufgabe weiterbearbeitet. 
-
-Politik:
-- 
-__________
-
+| Datum  | Fach    | Inhalte |
+|--------|--------|--------|
+| 13.04  | WuB    | Marketinglandkarte erklärt bekommen;<br>Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus |
+| 13.04  | ENG    | Präsentation |
+| 13.04  | DEU    | - |
+|--------|--------|--------|
+| 15.04  | SuD    | OTTODB Datenbank: Query Aufgaben gemacht |
+| 15.04  | EvP    | Wandertag geplant;<br>Sortieralgorithmen geschrieben |
+| 15.04  | EvP    | - |
+| 15.04  | Politik| - |
+|--------|--------|--------|
+| 00.00  | WuB    | - |
+| 00.00  | ENG    | - |
+| 00.00  | DEU    | - |
+|--------|--------|--------|
+| 00.00  | SuD    | - |
+| 00.00  | EvP    | - |
+| 00.00  | EvP    | - |
+| 00.00  | Politik| - |
+|--------|--------|--------|
+| 00.00  | WuB    | - |
+| 00.00  | ENG    | - |
+| 00.00  | DEU    | - |
+|--------|--------|--------|
+| 00.00  | SuD    | - |
+| 00.00  | EvP    | - |
+| 00.00  | EvP    | - |
+| 00.00  | Politik| - |
+|--------|--------|--------|
+| 00.00  | WuB    | - |
+| 00.00  | ENG    | - |
+| 00.00  | DEU    | - |
+|--------|--------|--------|
+| 00.00  | SuD    | - |
+| 00.00  | EvP    | - |
+| 00.00  | EvP    | - |
+| 00.00  | Politik| - |
