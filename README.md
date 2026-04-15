@@ -3,7 +3,7 @@
 | 13.04  | WuB    | Marketinglandkarte erklärt bekommen;<br>Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus |
 | 13.04  | ENG    | Präsentation |
 | 13.04  | DEU    | - |
-|--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 15.04  | SuD    | OTTODB Datenbank: Query Aufgaben gemacht |
 | 15.04  | EvP    | Wandertag geplant;<br>Sortieralgorithmen geschrieben |
 | 15.04  | EvP    | - |
