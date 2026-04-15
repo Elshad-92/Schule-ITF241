@@ -7,7 +7,7 @@ WuB:
 ENG:
 - Präsentation
 
-DEU:
+DEU: a
 - 
      
 __________
@@ -21,10 +21,10 @@ EvP:
 - Wandertag geplant.
 - Sortieralgorithmen geschrieben.
 
-EvP:
+EvP: a
 - 
 
-Politik:
+Politik: a
 - 
 
 __________
