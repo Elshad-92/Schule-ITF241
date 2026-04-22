@@ -13,7 +13,7 @@
 | 20.04  | ENG    | Präsentation von andere Gruppen angeschaut. Word Describe game played |
 | 20.04  | DEU    | - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 00.00  | SuD    | - |
+| 22.04  | SuD    | Aufgaben gemacht: Queries, Berechnungen, Aggregatfunktionen |
 | 00.00  | EvP    | - |
 | 00.00  | EvP    | - |
 | 00.00  | Politik| - |
