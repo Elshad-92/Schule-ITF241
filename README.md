@@ -20,12 +20,12 @@
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 27.04  | WuB    | Test geschrieben |
 | 27.04  | ENG    | Work assignment Moodle: reading comprehension Ethics & AI |
-| 00.00  | DEU    | Analysieren mögliche Chancen und Risiken bei der Teamarbeit |
+| 27.04  | DEU    | Analysieren mögliche Chancen und Risiken bei der Teamarbeit |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 00.00  | SuD    | - |
-| 00.00  | EvP    | - |
-| 00.00  | EvP    | - |
-| 00.00  | Politik| - |
+| 29.04  | SuD    | SQL Subqueries Präsentation und Aufgaben |
+| 29.04  | EvP    | Aufgabe(Projekt: 3 Standorts verbinden) IPv4 und IPv6 Routin Tabellen eingestellt. |
+| 29.04  | SuD    | Lambda Test geschrieben und Model View Controller und Model View Presenter Präsentation. |
+| 29.04  | Politik| - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 00.00  | WuB    | - |
 | 00.00  | ENG    | - |
