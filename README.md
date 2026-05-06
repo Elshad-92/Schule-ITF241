@@ -32,6 +32,10 @@
 | 00.00  | DEU    | - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 06.05  | SuD    | Subqueries Aufgaben  |
-| 06.05  | EvP    | Hierarchisches Netzwerkmodell Präse und Recherche |
+| 06.05  | EvP    | Hierarschische Netzwerk recherchiert. 
+           * Access Layer (Zugriffsschicht) 
+           * Distribution Layer (Verteilungsschicht) 
+           * Core Layer (Kernschicht) 
+           - VLAN (Virtual Local Area Network)  |
 | 06.05  | EvP    | - |
 | 06.05  | Politik| - |
