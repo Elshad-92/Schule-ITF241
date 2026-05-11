@@ -6,10 +6,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Was möchtest du berechnen?");
         System.out.println("1 = Kreis");
         System.out.println("2 = Rechteck");
-        System.out.println("1 oder 2 ? : ");
         int form = scanner.nextInt();
 
         if (form == 1) {
@@ -17,12 +15,16 @@ public class Main {
             Kreis k = new Kreis();
 
             System.out.print("Radius: ");
-            k.radius = scanner.nextDouble();
+            k.setRadius(scanner.nextDouble());
 
             System.out.println("1 Umfang, 2 Fläche");
             int auswahl = scanner.nextInt();
 
-            k.berechnungAuswahl(auswahl);
+            if (auswahl == 1) {
+                System.out.println("Umfang: " + k.berechneUmfang());
+            } else if (auswahl == 2) {
+                System.out.println("Fläche: " + k.berechneFlaeche());
+            }
         }
 
         else if (form == 2) {
@@ -30,10 +32,10 @@ public class Main {
             Rechteck r = new Rechteck();
 
             System.out.print("Seite A: ");
-            r.seiteA = scanner.nextDouble();
+            r.setSeiteA(scanner.nextDouble());
 
             System.out.print("Seite B: ");
-            r.seiteB = scanner.nextDouble();
+            r.setSeiteB(scanner.nextDouble());
 
             System.out.println("1 Umfang, 2 Fläche");
             int auswahl = scanner.nextInt();
