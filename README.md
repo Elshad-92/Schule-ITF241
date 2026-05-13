@@ -39,3 +39,8 @@
 | 11.05  | WuB    | Marktsituation und Marketingplanung recherchiert und vom Schulmaterialen gelernt. |
 | 11.05  | ENG    | Reading Task: work assignment reading comprehension The ecomomic potential of generative AI |
 | 11.05  | DEU    | - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 13.05  | SuD    | Subqueries Zusammen durchgegangen  |
+| 13.05  | EvP    | Hierarschische Netzwerk recherchiert. und zusätzlich  VLAN (Virtual Local Area Network) Präsentation.  |
+| 13.05  | EvP    | Lernsituation9 Aufgaben weiterbearbeitet: KFZ Klassen erstellt. |
+| 13.05  | Politik| - |
