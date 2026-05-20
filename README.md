@@ -50,7 +50,7 @@
 | 18.05  | DEU    | Test Vorbereitung |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 20.05  | SuD    | Outer Join Präsentation und Aufgaben  |
-| 20.05  | EvP    | VLAN (Virtual Local Area Network) Aufgabe bearbeitet.  |
+| 20.05  | EvP    | Hierarschische Netzwerk und VLAN Aufgaben bearbeitet.  |
 | 20.05  | EvP    | Lernsituation9 Aufgaben weiterbearbeitet: KFZ Klassen erstellt. |
 | 13.05  | Politik| - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
