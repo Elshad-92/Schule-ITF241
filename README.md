@@ -52,5 +52,23 @@
 | 20.05  | SuD    | Outer Join Präsentation und Aufgaben  |
 | 20.05  | EvP    | Hierarschische Netzwerk und VLAN Aufgaben bearbeitet.  |
 | 20.05  | EvP    | Lernsituation9 Aufgaben weiterbearbeitet: KFZ Klassen erstellt. |
-| 13.05  | Politik| - |
+| 20.05  | Politik| - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 25.05  | WuB    | - |
+| 25.05  | ENG    | Ferien |
+| 25.05  | DEU    | - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 27.05  | SuD    | Subqueries Aufgaben weiterbearbeitet  |
+| 27.05  | EvP    | Command Pattern Aufgaben  |
+| 27.05  | EvP    | die Stunde ist ausgefallen |
+| 27.05  | Politik| - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 01.06  | WuB    | Preisstrategien Recherche und Übungen |
+| 01.06  | ENG    | Gespräch Stunde |
+| 01.06  | DEU    | Test geschrieben(Projektmerkmale) |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 03.06  | SuD    | Klausur (Subqueries)  |
+| 03.06  | EvP    | Ethernet, Trunks und WLAN Aufgaben gemacht.  |
+| 03.06  | EvP    | Command Pattern Aufgaben |
+| 03.06  | Politik| - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
