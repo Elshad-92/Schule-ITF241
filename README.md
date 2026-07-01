@@ -86,4 +86,12 @@
 | 17.06  | EvP    | Threads Präsentation                        |
 | 17.06  | Politik| Soziale Gerechtigkeit                       |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-
+| 29.06  | WuB    | Klausuraufgaben und Notenbeschprechung |
+| 29.06  | ENG    | Aufgabe: jigsaw risks |
+| 29.06  | DEU    | Klausuraufgaben und Notenbeschprechung |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 01.07  | SuD    | Klausuraufgaben und Notenbeschprechung     |
+| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     | 
+| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     |
+| 01.07  | Politik| Soziale Gerechtigkeit                      |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
