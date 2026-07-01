@@ -59,7 +59,7 @@
 | 25.05  | DEU    | - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 27.05  | SuD    | Subqueries Aufgaben weiterbearbeitet  |
-| 27.05  | EvP    | Command Pattern Aufgaben  |
+| 27.05  | EvP    | Klassen erstellen für KFZ  |
 | 27.05  | EvP    | die Stunde ist ausgefallen |
 | 27.05  | Politik| - |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -69,6 +69,29 @@
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 03.06  | SuD    | Klausur (Subqueries)  |
 | 03.06  | EvP    | Ethernet, Trunks und WLAN Aufgaben gemacht.  |
-| 03.06  | EvP    | Command Pattern Aufgaben |
+| 03.06  | EvP    | Konstruktor und Exceptions |
 | 03.06  | Politik| - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 01.06  | WuB    | war krank |
+| 01.06  | ENG    | war krank |
+| 01.06  | DEU    | war krank |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 03.06  | SuD    |  DML (Data Manipulation Language) Aufgaben  |
+| 03.06  | EvP    | Wiederholungen - Klausurvorbereitung  |
+| 03.06  | EvP    | Command Pattern Test und danach die Aufgaben |
+| 03.06  | Politik| - |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 17.06  | SuD    | DML (Data Manipulation Language) Aufgaben   |
+| 17.06  | EvP    | Klausur geschrieben                         |
+| 17.06  | EvP    | Threads Präsentation                        |
+| 17.06  | Politik| Soziale Gerechtigkeit                       |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 29.06  | WuB    | Klausuraufgaben und Notenbeschprechung |
+| 29.06  | ENG    | Aufgabe: jigsaw risks |
+| 29.06  | DEU    | Klausuraufgaben und Notenbeschprechung |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 01.07  | SuD    | Klausuraufgaben und Notenbeschprechung     |
+| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     | 
+| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     |
+| 01.07  | Politik| Soziale Gerechtigkeit                      |
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
