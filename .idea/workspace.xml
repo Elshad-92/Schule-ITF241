@@ -4,82 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a1a4ec-a47b-4b9c-b4ab-b6169fe973a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ITF241.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS01/src/Baum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS01/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS01/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS01/src/SauseWind.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS02/BMI/BMI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS02/BMI/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS02/Bustarif/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS02/Zahlenumwandlung/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS02/Zahnbuersten/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS03/src/SternQuadrat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS03/src/TenGreenBottles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS04/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS04/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS04/src/Zahnbrueste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe3/src/Utilites.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS05/Aufgabe7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS06/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS06/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS07/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS08/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS08/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS09/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS09/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS10/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS10/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS11/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS11/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS12/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS12/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS13/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS14/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS14/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS15/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS15/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS16/src/LegoBauteil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS16/src/LegoKomposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS16/src/Legostein.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS16/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS16/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS17/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS18/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS19/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS19/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS20/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS20/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS21/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS21/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS22/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS22/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS23/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS23/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS24/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS24/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS25/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS25/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS26/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS26/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS27/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS27/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS28/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS28/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS29/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS29/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/LS30/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Schule-ITF241/SUD/LS30/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/Launcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/QUICKSTART.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schule-ITF241/SUD/ZUSAMMENFASSUNG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Baum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/SauseWind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/Aufgabe5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/Baum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/SauseWind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/SternQuadrat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ITF241/TenGreenBottles.class" beforeDir="false" />
-    </list>
+    <list default="true" id="66a1a4ec-a47b-4b9c-b4ab-b6169fe973a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,28 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mainn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SternQuadrat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TenGreenBottles.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;sortieralgorithmen&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//176011p-nm01/BWVstudentsroot/gulaels12/Documents/Schule-ITF241&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Mainn.executor": "Run",
+    "Application.SternQuadrat.executor": "Run",
+    "Application.TenGreenBottles.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "U:/Documents/Schule-ITF241",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\176011p-nm01\BWVstudentsroot\gulaels12\Documents\Schule-ITF241\Schule-ITF241\SUD\LS05" />
@@ -166,7 +91,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -192,6 +116,7 @@
       <workItem from="1776244354748" duration="267000" />
       <workItem from="1776244817830" duration="96000" />
       <workItem from="1776245346889" duration="117000" />
+      <workItem from="1781085981456" duration="34000" />
     </task>
     <servers />
   </component>
