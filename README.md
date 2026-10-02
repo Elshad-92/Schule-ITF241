@@ -1,102 +1,4 @@
 | Datum  | Fach    | Inhalte |
-|--------|--------|--------|
-| 13.04  | WuB    | Marketinglandkarte erklärt bekommen;<br>Marktsituation angefangen: Strategische Analyse, SWOT-Analyse, Marktgrößen, Produktlebenszyklus |
-| 13.04  | ENG    | Präsentation |
-| 13.04  | DEU    | - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 15.04  | SuD    | OTTODB Datenbank: Query Aufgaben gemacht |
-| 15.04  | EvP    | Wandertag geplant;<br>Sortieralgorithmen geschrieben |
-| 15.04  | EvP    | - |
-| 15.04  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 20.04  | WuB    | Marktsituation Themen: SWOT-Analyse, Marktgröße Analyse und Aufgaben dazu gemacht |
-| 20.04  | ENG    | Präsentation von andere Gruppen angeschaut. Word Describe game played |
-| 20.04  | DEU    | - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 22.04  | SuD    | Aufgaben gemacht: Queries, Berechnungen, Aggregatfunktionen |
-| 22.04  | EvP    | IPv6 Routing Tabellen geschrieben. |
-| 00.00  | EvP    | - |
-| 00.00  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 27.04  | WuB    | Test geschrieben |
-| 27.04  | ENG    | Work assignment Moodle: reading comprehension Ethics & AI |
-| 27.04  | DEU    | Analysieren mögliche Chancen und Risiken bei der Teamarbeit |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 29.04  | SuD    | SQL Subqueries Präsentation und Aufgaben |
-| 29.04  | EvP    | Aufgabe(Projekt: 3 Standorts verbinden) IPv4 und IPv6 Routin Tabellen eingestellt. |
-| 29.04  | SuD    | Lambda Test geschrieben und Model View Controller und Model View Presenter Präsentation. |
-| 29.04  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 00.00  | WuB    | - |
-| 00.00  | ENG    | - |
-| 00.00  | DEU    | - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 06.05  | SuD    | Subqueries Aufgaben  |
-| 06.05  | EvP    | Hierarschische Netzwerk recherchiert. (1.Access Layer (Zugriffsschicht) 2.Distribution Layer (Verteilungsschicht) 3.Core Layer (Kernschicht)) und  VLAN (Virtual Local Area Network)  |
-| 06.05  | EvP    | - |
-| 06.05  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 11.05  | WuB    | Marktsituation und Marketingplanung recherchiert und vom Schulmaterialen gelernt. |
-| 11.05  | ENG    | Reading Task: work assignment reading comprehension The ecomomic potential of generative AI |
-| 11.05  | DEU    | - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 13.05  | SuD    | Subqueries Zusammen durchgegangen  |
-| 13.05  | EvP    | Hierarschische Netzwerk recherchiert. und zusätzlich  VLAN (Virtual Local Area Network) Präsentation.  |
-| 13.05  | EvP    | Lernsituation9 Aufgaben weiterbearbeitet: KFZ Klassen erstellt. |
-| 13.05  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 18.05  | WuB    | Kostenplanung recherchiert und vom Schulmaterialen gelernt. |
-| 18.05  | ENG    | Reading Task: Test geschrieben |
-| 18.05  | DEU    | Test Vorbereitung |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 20.05  | SuD    | Outer Join Präsentation und Aufgaben  |
-| 20.05  | EvP    | Hierarschische Netzwerk und VLAN Aufgaben bearbeitet.  |
-| 20.05  | EvP    | Lernsituation9 Aufgaben weiterbearbeitet: KFZ Klassen erstellt. |
-| 20.05  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 25.05  | WuB    | - |
-| 25.05  | ENG    | Ferien |
-| 25.05  | DEU    | - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 27.05  | SuD    | Subqueries Aufgaben weiterbearbeitet  |
-| 27.05  | EvP    | Klassen erstellen für KFZ  |
-| 27.05  | EvP    | die Stunde ist ausgefallen |
-| 27.05  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 01.06  | WuB    | Preisstrategien Recherche und Übungen |
-| 01.06  | ENG    | Gespräch Stunde |
-| 01.06  | DEU    | Test geschrieben(Projektmerkmale) |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 03.06  | SuD    | Klausur (Subqueries)  |
-| 03.06  | EvP    | Ethernet, Trunks und WLAN Aufgaben gemacht.  |
-| 03.06  | EvP    | Konstruktor und Exceptions |
-| 03.06  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 01.06  | WuB    | war krank |
-| 01.06  | ENG    | war krank |
-| 01.06  | DEU    | war krank |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 03.06  | SuD    |  DML (Data Manipulation Language) Aufgaben  |
-| 03.06  | EvP    | Wiederholungen - Klausurvorbereitung  |
-| 03.06  | EvP    | Command Pattern Test und danach die Aufgaben |
-| 03.06  | Politik| - |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 17.06  | SuD    | DML (Data Manipulation Language) Aufgaben   |
-| 17.06  | EvP    | Klausur geschrieben                         |
-| 17.06  | EvP    | Threads Präsentation                        |
-| 17.06  | Politik| Soziale Gerechtigkeit                       |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 29.06  | WuB    | Klausuraufgaben und Notenbeschprechung |
-| 29.06  | ENG    | Aufgabe: jigsaw risks |
-| 29.06  | DEU    | Klausuraufgaben und Notenbeschprechung |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 01.07  | SuD    | Klausuraufgaben und Notenbeschprechung     |
-| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     | 
-| 01.07  | EvP    | Klausuraufgaben und Notenbeschprechung     |
-| 01.07  | Politik| Soziale Gerechtigkeit                      |
-|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-
-
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
 | 04.09  | SuD    | Threads wiederholen.     |
 | 04.09  | KI    | Organisation, Cisco Anmeldung, Modul 1.0.3 Was ist KI ?     | 
@@ -113,4 +15,7 @@
 | 15.09  | SuD    | JUnit testing Video     | 
 | 15.09  | EvP    | Besprechung: IPv6 Adressauflösung NDP Übung Cisco 9.3     |
 | 15.09  | Deutsch| Dokumentieren und Berichten: Änderungsmanagement.                      |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 02.10  | SuD    | Strategy Pattern aufgaben     |
+| 02.10  | Politik| Organisation, Kennenlernen und Aktuelle Politik.     | 
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
