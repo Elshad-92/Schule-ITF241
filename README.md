@@ -19,3 +19,8 @@
 | 02.10  | SuD    | Strategy Pattern aufgaben     |
 | 02.10  | Politik| Organisation, Kennenlernen und Aktuelle Politik.     | 
 |-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
+| 06.10  | WuB    | Test geschrieben und besprochen     |
+| 06.10  | SuD    | Sequenzdiagramm für rollenspiel     | 
+| 06.10  | EvP    | Besprechung: IPv6 Adressauflösung NDP Übung Cisco 9.3     |
+| 06.10  | Deutsch| Dokumentieren und Berichten: Änderungsmanagement.                      |
+|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
